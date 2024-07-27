@@ -17,7 +17,7 @@ text = input("Please enter a text: ")
 def count_words(text):
     words = text.split() # numero de valores
     count = 0
-    for word in words:
+    for word in words: # pasa por la cantidad de valores cada uno
         count += 1
     return count
 
