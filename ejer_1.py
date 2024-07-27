@@ -4,7 +4,7 @@
 # de esas calificaciones.
 
 print("----------------------------------------------------------------")
-print("----------------------- average qualifiers ---------------------")
+print("----------------------- Average qualifiers ---------------------")
 print("----------------------------------------------------------------")
 
 qualification_1 = input("Please enter your first qualifier: ")
